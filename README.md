@@ -30,14 +30,15 @@ ___
 
 # How to Use:
 
-## 1.)
-![Royal_SpringLube_Station_HOWTO_1](https://cdn.discordapp.com/attachments/642426539824119849/667474701546946590/image2.jpg)
+## 1.) Place 1 Switch Spring Into Each Individual Spring Well.
 
-## 2.)
-![Royal_SpringLube_Station_HOWTO_2](https://cdn.discordapp.com/attachments/642426539824119849/667474700938641427/image1.jpg)
+![Royal_SpringLube_Station_HOWTO_1](https://cdn.discordapp.com/attachments/642426539824119849/667469012761837597/Inst-Spring_In.png)
 
-## 3.)
-![Royal_SpringLube_Station_HOWTO_3](https://cdn.discordapp.com/attachments/642426539824119849/667474702100332545/image3.jpg)
+## 2.) Apply x2-5 Drops of Your Preferred Oil Lubricant Into Each Individual Spring Well.
+![Royal_SpringLube_Station_HOWTO_2](https://cdn.discordapp.com/attachments/642426539824119849/667469014129442826/Inst-Lube-Application.png)
+
+## 3.) Hold Top/Base Together Tightly and... - SHAKE, SHAKE, SHAKE!-
+![Royal_SpringLube_Station_HOWTO_3](https://cdn.discordapp.com/attachments/642426539824119849/667471836073689088/Inst-SHAKE.png)
 
 ## 4.) Open Top Cover and Remove Springs One-By-One and Place into desired Switch Housing. 
 
