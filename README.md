@@ -43,7 +43,7 @@ ___
 
 ___
 
-# Thank You To Everyone for Making this project possible!
+# Thank You To Everyone for Making My Projects Possible!
 
 - I’m always down for a nice coffee, beer, or cup of tea. 
 - Click my Buymeacoffee link below if you wanted to make a small tip donation <3
