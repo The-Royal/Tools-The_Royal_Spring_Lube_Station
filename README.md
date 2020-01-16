@@ -11,6 +11,8 @@ ___
 
 ## Tooling Specifications:
 
+- Maximum Capacity is **x100** Standard MX/Kaihl/ALPS Springs
+
 - Max Size for Full Assembly is **90 x 90 x 29mm** 
 - Main Body Size: **90 x 90 x 26mm**
 - Top Cover Size: **90 x 90 x 6.5mm**
