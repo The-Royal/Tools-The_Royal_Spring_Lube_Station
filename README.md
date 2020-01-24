@@ -42,6 +42,14 @@ ___
 
 ## 4.) Open Top Cover and Remove Springs One-By-One and Place into desired Switch Housing. 
 
+# Optional: TPU Sudo-Gasket Insert
+
+- A Model is included within the Repo that, if printed in a flexible filament such as TPU or Ninjaflex can be used as a gasket insert to prevent any sort of leaking when shaking what so ever.  
+
+- *This part is untested so use at own discretion.
+
+![Royal_SpringLube_Station_OPTIONAL_GASKET](https://cdn.discordapp.com/attachments/642426539824119849/670313620000866334/Optional_Gasket.png)
+
 ___
 
 # Thank You To Everyone for Making My Projects Possible!
